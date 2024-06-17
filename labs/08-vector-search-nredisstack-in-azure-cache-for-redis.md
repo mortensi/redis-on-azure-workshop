@@ -263,7 +263,7 @@ In this example, you have learned to model sentences using the hash data structu
 
 ## Additional Resources
 
-[Connect with Redis clients ](https://redis.io/docs/latest/develop/connect/clients/)
-[NRedisStack](https://github.com/redis/NRedisStack)
-[Redis as a vector database quick start guide](https://redis.io/docs/latest/develop/get-started/vector-database/)
-[Azure AI services](https://azure.microsoft.com/en-us/products/ai-services)
+- [Connect with Redis clients ](https://redis.io/docs/latest/develop/connect/clients/)
+- [NRedisStack](https://github.com/redis/NRedisStack)
+- [Redis as a vector database quick start guide](https://redis.io/docs/latest/develop/get-started/vector-database/)
+- [Azure AI services](https://azure.microsoft.com/en-us/products/ai-services)
