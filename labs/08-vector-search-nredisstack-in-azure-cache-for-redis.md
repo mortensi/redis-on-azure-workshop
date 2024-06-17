@@ -260,3 +260,10 @@ id: doc:2,  0.86530482769 Stephen King's IT, with its chilling narrative and unf
 ## Wrapping up
 
 In this example, you have learned to model sentences using the hash data structure and perform the semantic search using an OpenAI embedding model. Remember that you can perform [hybrid](https://redis.io/docs/latest/develop/interact/search-and-query/advanced-concepts/vectors/#pre-filter-knn-queries-hybrid-approach) and [range](https://redis.io/docs/latest/develop/interact/search-and-query/advanced-concepts/vectors/#range-queries) searches with Redis and model your sentences using the [JSON format](https://redis.io/docs/latest/develop/interact/search-and-query/advanced-concepts/vectors/#storing-vectors-in-json). 
+
+## Additional Resources
+
+[Connect with Redis clients ](https://redis.io/docs/latest/develop/connect/clients/)
+[NRedisStack](https://github.com/redis/NRedisStack)
+[Redis as a vector database quick start guide](https://redis.io/docs/latest/develop/get-started/vector-database/)
+[Azure AI services](https://azure.microsoft.com/en-us/products/ai-services)
