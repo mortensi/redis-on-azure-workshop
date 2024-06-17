@@ -17,7 +17,7 @@ The world is moving faster than ever, and software needs to keep up with the dem
 ### Stretch Goals
 
 1. Create an API using ASP.NET Core to return the JSON results from a full-text search, natively performed by RedisSearch.
-2. Learn how to use the NRedisStack client library to manipulate and search JSON documents
+2. Learn to use the NRedisStack client library to manipulate and search JSON documents
 3. Perform vector search with the NRedisStack client library and model sentences using the Azure AI services
 
 ## Contributing
