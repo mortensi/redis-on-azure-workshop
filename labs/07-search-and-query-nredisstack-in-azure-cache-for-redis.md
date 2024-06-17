@@ -226,3 +226,5 @@ Console.WriteLine(string.Join(", ", SearchResult.Documents.Select(d => d["id"] +
 
 [Connect with Redis clients ](https://redis.io/docs/latest/develop/connect/clients/)
 [NRedisStack](https://github.com/redis/NRedisStack)
+___
+[Next Lab](./08-vector-search-nredisstack-in-azure-cache-for-redis.md)
